@@ -1,0 +1,12 @@
+name: XBShopSystem
+author: ELKMAN
+version: 1.0
+main: de.elkman.xbshop.main.Main
+commands:
+  chips:
+  xbshop:
+  sendchips:
+  pay:
+  crate:
+  crateadmin:
+  crateinfo:
